@@ -21,6 +21,7 @@ function App() {
 
   return (
     <React.Fragment>
+      <p>hi!</p>
       <section>
         <button>Fetch Movies</button>
       </section>
